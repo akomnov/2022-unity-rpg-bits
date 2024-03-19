@@ -1,0 +1,1 @@
+Everything here is both non-Unity-specific and non-app-specific, i.e. if there was to be a separate dev tool app, it could use this.

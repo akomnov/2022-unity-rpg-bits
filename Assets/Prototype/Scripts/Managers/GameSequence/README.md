@@ -1,0 +1,1 @@
+GameSequence impl details.

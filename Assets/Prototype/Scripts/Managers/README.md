@@ -1,0 +1,1 @@
+Everything here is Unity-specific and, while intended to be used as components on game objects (or their implementation details), said game objects are to perform the role of execution flow managers.

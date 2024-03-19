@@ -1,0 +1,1 @@
+Impl details shared between different IBehaviourRunner-s.
