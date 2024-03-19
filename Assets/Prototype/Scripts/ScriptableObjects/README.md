@@ -1,0 +1,1 @@
+ScriptableObject definitions (as opposed to assets in Assets/ScriptableObjectInstances) should go here.

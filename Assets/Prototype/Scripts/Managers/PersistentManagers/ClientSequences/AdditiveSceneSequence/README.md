@@ -1,0 +1,1 @@
+AdditiveSceneSequence impl details.

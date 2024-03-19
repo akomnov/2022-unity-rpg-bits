@@ -1,0 +1,1 @@
+Unity components for game object behaviours to be used across different scenes (as opposed to SceneScripts).
